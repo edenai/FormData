@@ -1,5 +1,5 @@
 # FormData
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Overview
 
 **This is a Google Apps Script library which enhances Class FormData to create a multipart/form-data.**
